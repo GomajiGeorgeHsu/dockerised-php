@@ -1,0 +1,5 @@
+#!/bin/sh
+mkdir -p /var/log/php7
+chown nobody.nobody /var/log/php7
+mkdir -p /var/log/weblog
+chown nobody.nobody /var/log/weblog
